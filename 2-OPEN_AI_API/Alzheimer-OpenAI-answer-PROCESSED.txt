@@ -1,0 +1,872 @@
+7 - 3. systems pharmacology and multi-scale mechanism of enicostema axillare bioactives in treating alzheimer disease.
+   From this abstract, the potential positive drug or compound for treating Alzheimer Disease (AD) is Enicostema axillare (EA), which is an herb. The abstract mentions that EA has bioactive compounds that show potential therapeutic effects for treating AD through the modulation of key proteins. However, specific drug or compound names are not mentioned in the abstract.
+16 - 6. fluoroethylnormemantine (fenm) shows synergistic protection in combination with a sigma-1 receptor agonist in a mouse model of alzheimer's disease.
+   From this abstract, the following drug or compound names are potentially positive for treating Alzheimer's disease:
+1. fluoroethylnormemantine (fenm)
+2. memantine
+3. s1r agonists (pre-084, igmesine, cutamesine)
+4. donepezil
+22 - 8. spectrum-effect relationship analysis based on hplc-ft-icr-ms and multivariate statistical analysis to reveal the pharmacodynamic substances of ling-gui-zhu-gan decoction on alzheimer's disease.
+   From this abstract, the potential pharmacodynamic substances for treating Alzheimer's disease (AD) are isoglabrolide, licorice saponin E2, licorice saponin N2, licoisoflavanone, tumulosic acid, polyporenic acid C, dehydrotumulosic acid, dehydropachymic acid, and pachymic acid.
+28 - 10. oligonol ameliorates liver function and brain function in the 5 × fad mouse model: transcriptional and cellular analysis.
+   The compound name that is potentially positive for treating Alzheimer's disease is "oligonol".
+34 - 12. cyanidin ameliorates bisphenol a-induced alzheimer's disease pathology by restoring wnt/β-catenin signaling cascade: an in vitro study.
+   From this abstract, the drug or compound name that is potentially positive for treating Alzheimer's disease is cyanidin.
+40 - 14. the effects of different acetylcholinesterase inhibitors on eeg patterns in patients with alzheimer's disease: a systematic review.
+   From this abstract, the drug or compound names potentially positive for treating Alzheimer's disease are:
+- acetylcholinesterase inhibitors (acheis)
+- donepezil
+- rivastigmine
+- tacrine
+- physostigmine
+- galantamine
+43 - 15. pathological and physiological functional cross-talks of α-synuclein and tau in the central nervous system.
+   No, this abstract does not mention any specific drug or compound names that are potentially positive for treating Alzheimer's disease.
+49 - 17. correlation between the gut microbiome and neurodegenerative diseases: a review of metagenomics evidence.
+   No, this abstract does not mention any specific drug or compound names that are potentially positive for treating Alzheimer's disease. It primarily discusses the role of the gut microbiota and potential interventions such as diet, prebiotics, probiotics, postbiotics, and exercise in reducing the symptoms of neurodegenerative diseases.
+52 - 18. molecular modelling of resveratrol derivatives with sirt1 for the stimulation of deacetylase activity.
+   The abstract does not mention any drug or compound name that is potentially positive for treating Alzheimer's disease.
+64 - 22. genetic overlap between alzheimer's disease and immune-mediated diseases: an atlas of shared genetic determinants and biological convergence.
+   From this abstract, potential drug or compound targets for treating Alzheimer's disease include:
+- gramd1b
+- fut2
+- adamts4
+- hbegf
+- wnt3
+- tspan14
+- dhodh
+- abcb9
+- tnip1
+73 - 25. editorial: neuro-glia-immune communication: novel biomarkers and therapeutic targets.
+   Without the availability of the abstract, it is not possible to extract any drug or compound names that are potentially positive for treating Alzheimer's disease.
+82 - 28. app-based assessment of memory functions in patients after transfemoral aortic valve replacement.
+   There is no mention of any specific drug or compound name in the given abstract that could be potentially positive for treating Alzheimer's disease.
+85 - 29. landscape of phase ii trials in alzheimer's disease.
+   No specific drug or compound name is mentioned in the given abstract.
+97 - 33. protective effects of rivaroxaban on white matter integrity and remyelination in a mouse model of alzheimer's disease combined with cerebral hypoperfusion.
+   No drug or compound name is mentioned in the abstract that is potentially positive for treating Alzheimer's disease.
+106 - 36. memantine administration prevented chorea movement in huntington's disease: a case report.
+   Yes, the drug name mentioned in the abstract that is potentially beneficial for treating Huntington's disease is "memantine".
+121 - 41. in-vitro and in-silico studies of annelated 1,4,7,8-tetrahydroazocine ester derivatives as nanomolar selective inhibitors of human butyrylcholinesterase.
+   From the abstract, the potential drug or compound name that is potentially positive for treating Alzheimer's disease is compound 7c, which is an alkylamino derivative of tetrahydropyrimido[4,5-d]azocine.
+127 - 43. abl depletion via autophagy mediates the beneficial effects of quercetin against alzheimer pathology across species.
+   From this abstract, the drug or compound name that is potentially positive for treating Alzheimer's disease is quercetin.
+145 - 49. protein retention in the endoplasmic reticulum rescues aβ toxicity in drosophila.
+   The potential drug or compound name that is potentially positive for treating Alzheimer's disease mentioned in the abstract is laminin B1 (LanB1). Other laminin subunits and collagen IV are also mentioned to alleviate Aβ toxicity, but LanB1 is specifically highlighted as having a robust counteractive effect against Aβ toxicity.
+148 - 50. discovery of novel multifunctional ligands targeting gaba transporters, butyrylcholinesterase, β-secretase, and amyloid β aggregation as potential treatment of alzheimer's disease.
+   From this abstract, the following drug or compound names can be identified as potential treatments for Alzheimer's disease:
+- gaba transporter (gat) inhibitors
+- compound 19c (n-benzylamide derivatives of 4-aminobutyric acid)
+- compound 22a (n-benzylamide derivatives of 4-aminobutyric acid)
+163 - 55. supplementation of medium-chain triglycerides combined with docosahexaenoic acid inhibits amyloid beta protein deposition by improving brain glucose metabolism in app/ps1 mice.
+   From this abstract, two potential drugs or compounds that are potentially positive for treating Alzheimer's disease are Medium-chain triglycerides (MCTs) and docosahexaenoic acid (DHA). The abstract suggests that the supplementation of MCTs combined with DHA improves brain glucose metabolism and decreases the expression of AD-related proteins in APP/PS1 mice.
+166 - 56. polyoxometalate-decorated gold nanoparticles inhibit β-amyloid aggregation and cross the blood-brain barrier in a µphysiological model.
+   From this abstract, the potential drug or compound for treating Alzheimer's disease is AuNPs@POM@PEG, which is a nanohybrid system consisting of gold nanoparticles (AuNPs) covered with polyoxometalates (POMs) and polyethylene glycol (PEG). The study demonstrated that AuNPs@POM@PEG inhibited the formation of amyloid fibrils, showing a 75% decrease in Aβ aggregation in vitro. Additionally, it was found to be non-cytotoxic to human neurovascular cells at concentrations below 2.5 nM and was able to cross the blood-brain barrier in an in vitro microphysiological model. This suggests that AuNPs@POM@PEG has potential as a nanotherapeutic for Alzheimer's disease.
+175 - 59. frontotemporal dementia p301l mutation potentiates but is not sufficient to cause the formation of cytotoxic fibrils of tau.
+   From this abstract, the potential drug or compound name that is mentioned is apomorphine. The abstract states that apomorphine, a hyperphosphorylated tau aggregation inhibitor, inhibits the harmful effects caused by P301L hyperphosphorylated tau. While the abstract does not specifically mention Alzheimer's disease, it does mention that understanding the mechanisms of tau mutations can provide clues for drug development for neurodegenerative tauopathies, including Alzheimer's disease.
+178 - 60. transferrin-conjugated melittin-loaded l-arginine-coated iron oxide nanoparticles for mitigating beta-amyloid pathology of the 5xfad mouse brain.
+   The potential drug or compound name that is mentioned in the abstract as a candidate for therapeutic drug targeting of amyloid plaques in Alzheimer's disease is "Tf-MeLioNs" (transferrin-conjugated melittin-loaded L-arginine-coated iron oxide nanoparticles).
+181 - 61. assessing drug administration techniques in zebrafish models of neurological disease.
+   No specific drug or compound names are mentioned in the provided abstract.
+187 - 63. metabolomic signatures of alzheimer's disease indicate brain region-specific neurodegenerative progression.
+   From the abstract, two drug or compound names that are potentially positive for treating Alzheimer's disease are phenylalanine and phosphorylcholine. These compounds were found to be mainly downregulated in the brains of AD patients, suggesting altered neurotransmitter synthesis.
+193 - 65. physical exercise as disease-modifying alternative against alzheimer's disease: a gut-muscle-brain partnership.
+   From this abstract, the potential drug or compound name that is suggested for treating Alzheimer's disease (AD) is irisin. Irisin is described as an exercise-induced myokine that promotes neuroplasticity and cognitive function through BDNF signaling. It is mentioned that irisin and muscle-generated BDNF may mediate the positive effects of physical activity against some aspects of AD pathophysiology.
+196 - 66. the role of adipokines in the pathologies of the central nervous system.
+   No specific drug or compound names for treating Alzheimer's disease are mentioned in this abstract.
+202 - 68. chronic administration of ion channel blockers impact microglia morphology and function in a murine model of alzheimer's disease.
+   The drugs or compounds mentioned in this abstract that are potentially positive for treating Alzheimer's disease are:
+1. sodium or calcium ion channel blockers
+2. verapamil
+3. carbamazepine
+205 - 69. mitochondria and oxidative stress as a link between alzheimer's disease and diabetes mellitus.
+   acetylcholinesterase inhibitors
+223 - 75. cross species review of the physiological role of d-serine in translationally relevant behaviors.
+   From this abstract, the drug or compound name that is potentially positive for treating Alzheimer's disease is D-serine.
+226 - 76. differential diagnosis of neurodegenerative dementias with the explainable mri based machine learning algorithm muqubia.
+   No drug or compound names are mentioned in the given abstract.
+229 - 77. alzheimer's disease marker phospho-tau181 is not elevated in the first year after moderate-to-severe tbi.
+   From this abstract, the drug or compound name that is potentially positive for treating Alzheimer's disease is tau phosphorylated at serine-181 (p-tau181).
+232 - 78. spinal cord injury induced exacerbation of alzheimer's disease like pathophysiology is reduced by topical application of nanowired cerebrolysin with monoclonal antibodies to amyloid beta peptide, p-tau and tumor necrosis factor alpha.
+   Based on the information provided in the abstract, the following drug or compound names are potentially positive for treating Alzheimer's disease:
+- cerebrolysin (delivered via nanowired delivery)
+- monoclonal antibodies (mab) to amyloid beta peptide (aβp)
+- monoclonal antibodies (mab) to phosphorylated tau (p-tau)
+- monoclonal antibodies (mab) to tumor necrosis factor-alpha (tnf-α)
+235 - 79. nicotine neurotoxicity exacerbation following engineered ag and cu (50-60 nm) nanoparticles intoxication. neuroprotection with nanowired delivery of antioxidant compound h-290/51 together with serotonin 5-ht3 receptor antagonist ondansetron.
+   The abstract does not mention any specific drug or compound names that could be potentially positive for treating Alzheimer's disease.
+238 - 80. aromatic glycosides and lignans glycosides with their acetylcholinesterase inhibitory activities from the leaves of picrasma quassioides.
+   From this abstract, the compound name that is potentially positive for treating Alzheimer's disease is compound 6.
+241 - 81. preparation and characterization of brain-targeted polymeric nanocarriers (frankincense-pmbn-lactoferrin) and in-vivo evaluation on an alzheimer's disease-like rat model induced by scopolamine.
+   The drug or compound name potentially positive for treating Alzheimer's disease mentioned in the abstract is frankincense.
+244 - 82. early-onset ocular motor cranial neuropathy is a strong predictor of dementia: a nationwide, population-based cohort study.
+   No, it is not possible to extract any specific drug or compound names from this abstract that are potentially positive for treating Alzheimer's disease. The abstract is focused on assessing the risk of dementia in individuals with newly diagnosed ocular motor cranial neuropathy (OMCN), not on potential drugs or treatments for Alzheimer's disease.
+253 - 85. memantine: updating a rare success story in pro-cognitive therapeutics.
+   The drug name that is potentially positive for treating Alzheimer's disease mentioned in the provided abstract is "memantine".
+259 - 87. particulate matter exposure and neurodegenerative diseases: a comprehensive update on toxicity and mechanisms.
+   No drug or compound names are mentioned in this abstract.
+265 - 89. increasing neurofilament and glial fibrillary acidic protein after treatment discontinuation predicts multiple sclerosis disease activity.
+   No drug or compound name that is potentially positive for treating Alzheimer's disease is mentioned in this abstract.
+271 - 91. donanemab: not two without a third.
+   From this abstract, the drugs or compounds potentially positive for treating Alzheimer's disease mentioned are:
+1. aducanumab
+2. lecanemab
+3. donanemab
+286 - 96. hydrocortisone mitigates alzheimer's-related cognitive decline through modulating oxidative stress and neuroinflammation.
+   The drug or compound name that is potentially positive for treating Alzheimer's disease mentioned in the abstract is hydrocortisone (HC).
+301 - 101. effects of rehabilitation program focused on improving real-life daily activities of patients with mild cognitive impairments or dementia and their caregivers.
+   No, the given abstract does not provide any drug or compound name that is potentially positive for treating Alzheimer's disease.
+307 - 103. research trends and hotspots of glial fibrillary acidic protein within the area of alzheimer's disease: a bibliometric analysis.
+   No, it is not possible to extract any specific drug or compound names from the given abstract. The abstract mentions the analysis of trends and hotspots regarding glial fibrillary acidic protein (GFAP) in Alzheimer's disease (AD), but it does not mention any particular drug or compound that may be potentially beneficial for treating the disease.
+322 - 108. blood biomarkers and neurodegeneration in individuals exposed to repetitive head impacts.
+   No drug or compound name related to treating Alzheimer's disease is mentioned in this abstract.
+337 - 113. visualization of the elevated levels of hypochlorous acid in alzheimer's disease with a ruthenium(ii) complex-based luminescence probe.
+   From this abstract, the drug or compound name that is potentially positive for treating Alzheimer's disease is Ru-HClO.
+340 - 114. target-modulated mineralization of wood channels as enzyme-free electrochemical sensors for detecting amyloid-β species.
+   From the abstract, there is mention of Zn/Cu-2-methylimidazole (Zn/Cu-Hmim) with artificial peroxidase (POD)-like activity. This compound could potentially be positive for treating Alzheimer's disease as it is used for electrochemical sensing of AβO1-42, which is associated with AD.
+343 - 115. a coumarin-based multifunctional chemosensor for cu2+/al3+ as an ad theranostic agent: synthesis, x-ray single crystal analysis and activity study.
+   From this abstract, the compound name that is potentially positive for treating Alzheimer's disease is "probe 1" or "Schiff base substituted coumarin".
+349 - 117. phenyl-quinoline derivatives as a lead structure of cholinesterase inhibitor endowed with potency to reduce the gsk-3β level targeting alzheimer's disease.
+   From the abstract, the potential drug or compound name for treating Alzheimer's disease is analog 7n.
+352 - 118. therapeutic efficacy and promise of stem cell-derived extracellular vesicles in alzheimer's disease and other aging-related disorders.
+   From this abstract, the drug or compound name that is potentially positive for treating Alzheimer's disease is stem cell-derived extracellular vesicles (SC-EVs).
+358 - 120. overcoming the structure deficiency of nanodrug coated with tannic acid shell through phenolic hydroxyl protection strategy for alzheimer's disease combination treatment.
+   From this abstract, three potential drugs or compounds for treating Alzheimer's disease are:
+1. azoramide (azo)
+2. dantrolene (dan)
+3. trazodone (tra)
+364 - 122. cognitive impairment in sexual and gender minority groups: a scoping review of the literature.
+   No drug or compound name is mentioned in this abstract.
+370 - 124. in vivo near-infrared fluorescence imaging selective for soluble amyloid β aggregates using y-shaped bodipy derivative.
+   From this abstract, the potential drug or compound name for treating Alzheimer's disease is BAOP-16.
+373 - 125. cognitive dysfunction and affective mood disorder screening in patients with chronic inflammatory bowel disease: protocol for a prospective case-control study.
+   From this abstract, the potential drug or compound names that could be positive for treating Alzheimer's disease (AD) are not mentioned specifically. However, the mention of blood biomarkers like serum amyloid A (SAA), serum homocysteine (Hcy), brain-derived neurotrophic factor (BDNF), and S100 calcium-binding protein B (S100B) may have implications for the development of future treatments for AD.
+379 - 127. intermittent fasting and alzheimer's disease-targeting ketone bodies as a potential strategy for brain energy rescue.
+   From this abstract, one potential drug or compound that is potentially positive for treating Alzheimer's disease is "ketone intervention". The abstract suggests that promoting ketone metabolism, potentially through interventions like intermittent fasting (IF), can improve brain energy impairments and have therapeutic potential for AD.
+382 - 128. delivery of the brainshuttle™ amyloid-beta antibody fusion trontinemab to non-human primate brain and projected efficacious dose regimens in humans.
+   The compound name that is potentially positive for treating Alzheimer's disease mentioned in the abstract is gantenerumab.
+385 - 129. therapeutic considerations of bioactive compounds in alzheimer's disease and parkinson's disease: dissecting the molecular pathways.
+   From this abstract, the following drug or compound names are potentially positive for treating Alzheimer's disease (AD):
+- curcumin
+- eugenol
+- resveratrol
+- baicalein 
+- sesamol
+- caffeine
+- aromadendrin
+- delphinidin
+- cyanidin 
+- xanthohumol
+394 - 132. nervonic acid reduces the cognitive and neurological disturbances induced by combined doses of d-galactose/alcl3 in mice.
+   The potential drug or compound name for treating Alzheimer's disease mentioned in this abstract is Nervonic acid (NA).
+400 - 134. biomarker discovery process at binomial decision point (2bdp): analytical pipeline to construct biomarker panel.
+   Based on the information provided in the abstract, it is not possible to extract any specific drug or compound names that are potentially positive for treating Alzheimer's disease. The abstract mainly focuses on the development of a machine learning pipeline for biomarker discovery, the use of biomarker panels to explain different stages of Alzheimer's disease, and the limitations of the study. It does not mention any specific drugs or compounds.
+403 - 135. genome-wide association study of hippocampal blood-oxygen-level-dependent-cerebral blood flow correlation in chinese han population.
+   From this abstract, there is no explicit mention of any drug or compound names that are potentially positive for treating Alzheimer's disease. The focus of the study is on the genetic architecture of hippocampal neurovascular coupling and its association with neurocognition and neuropsychiatric disorders. However, the locus at 3q28, which is significantly associated with the hippocampal BOLD-CBF correlation, has been linked to neuroimaging and cerebrospinal fluid markers of Alzheimer's disease.
+406 - 136. loop diuretics association with alzheimer's disease risk.
+   The drug names that are potentially positive for treating Alzheimer's disease in this abstract are bumetanide and furosemide.
+409 - 137. multi-feature fusion learning for alzheimer's disease prediction using eeg signals in resting state.
+   No drug or compound names are mentioned in this abstract.
+412 - 138. exploring the potential of amyloids in biomedical applications: a review.
+   No specific drug or compound names are mentioned in this abstract for the potential treatment of Alzheimer's disease.
+415 - 139. in silico identification of colchicine derivatives as novel and potential inhibitors based on molecular docking and dynamic simulations targeting multifactorial drug targets involved in alzheimer's disease.
+   From the abstract, the potential drug or compound names for treating Alzheimer's disease are:
+1. com111x: this compound showed impressive docking with acetylcholinesterase, indicating potential as an anti-alzheimer's drug.
+2. com112y: this compound displayed strong docking scores with pde4d and butyrylcholinesterase, suggesting dual inhibition for alzheimer's treatment.
+418 - 140. leptin prevents aberrant targeting of tau to hippocampal synapses via pi 3 kinase driven inhibition of gsk3β.
+   From this abstract, the drug or compound name potentially positive for treating Alzheimer's disease is leptin.
+424 - 142. insulin resistance induces earlier initiation of cognitive dysfunction mediated by cholinergic deregulation in a mouse model of alzheimer's disease.
+   From this abstract, there is no explicit mention of any specific drug or compound name that is potentially positive for treating Alzheimer's disease. The focus of the study appears to be on establishing an animal model with insulin resistance and investigating the role of the cholinergic system in cognitive function.
+430 - 144. readthrough isoform of aquaporin-4 (aqp4) as a therapeutic target for alzheimer's disease and other proteinopathies.
+   Based on this abstract, the compound or drug name that is potentially positive for treating Alzheimer's disease is amyloid-β (Aβ) peptides.
+436 - 146. pentoxifylline as add-on treatment to donepezil in copper sulphate-induced alzheimer's disease-like neurodegeneration in rats.
+   From this abstract, the drug or compound name that is potentially positive for treating Alzheimer's disease is donepezil (DON) and pentoxifylline (PTX) in combination.
+439 - 147. blood biomarker-based classification study for neurodegenerative diseases.
+   No drug or compound names are mentioned in this abstract.
+442 - 148. synaptic compensatory plasticity in alzheimer's disease.
+   The abstract does not mention any specific drug or compound names that are potentially positive for treating Alzheimer's disease.
+457 - 153. quercetin-3-o-β-d-glucuronide in the nuciferine leaf polyphenol extract promotes neurogenesis involving the upregulation of the tropomyosin receptor kinase (trk) receptor and akt/phosphoinositide 3-kinase signaling pathway.
+   From this abstract, the drug or compound name that is potentially positive for treating Alzheimer's disease is Miquelianin (quercetin-3-O-β-d-glucuronide, Q3GA).
+463 - 155. evaluation of n- and o-linked indole triazines for a dual effect on α-synuclein and tau aggregation.
+   From this abstract, compound 10 is potentially positive for treating Alzheimer's disease.
+466 - 156. anti-aging of the nervous system and related neurodegenerative diseases with chinese herbal medicine.
+   From this abstract, the following drug or compound names potentially positive for treating Alzheimer's disease can be extracted:
+1. ginseng radix
+2. lycii fructus
+3. astragali radix
+4. coptidis rhizoma
+5. ginkgo folium
+469 - 157. gamma secretase as an important drug target for management of alzheimer's disease: a comprehensive review.
+   From this abstract, the following drug or compound names are potentially positive for treating Alzheimer's disease:
+1. semagacestat
+2. avagacestat
+3. e2012 (gsm)
+4. fda-approved drugs (specific names are not mentioned in the abstract, but could be found in the full report)
+487 - 163. an overview of the pharmacological properties of calebin-a.
+   From this abstract, the compound calebin-A is potentially positive for treating Alzheimer's disease.
+490 - 164. angiotensin ii-mediated hippocampal hypoperfusion and vascular dysfunction contribute to vascular cognitive impairment in aged hypertensive rats.
+   From this abstract, there is no explicit mention of any drug or compound name that is potentially positive for treating Alzheimer's disease. The focus of the abstract is on chronic hypertension and its impact on vascular cognitive impairment.
+493 - 165. practice makes imperfect: stronger implicit interference with practice in individuals at high risk of developing alzheimer's disease.
+   No drug or compound name that is potentially positive for treating Alzheimer's disease can be extracted from this abstract.
+496 - 166. the autophagy protein def8 is altered in alzheimer's disease and aβ42-expressing drosophila brains.
+   From this abstract, the drug or compound name that is potentially positive for treating Alzheimer's disease is DEF8.
+502 - 168. teaching neuroimage: severe amyloid-related imaging abnormalities after anti-β-amyloid monoclonal antibody treatment.
+   Unfortunately, without access to the full text of the article, it is not possible to extract any drug or compound names. The abstract is not available for the provided PMID (37816643), so we cannot gather specific information on potential treatments for Alzheimer's disease.
+514 - 172. computational study on the enzyme-ligand relationship between cannabis phytochemicals and human acetylcholinesterase: implications in alzheimer's disease.
+   From this abstract, the following drug or compound names can be extracted as potentially positive for treating Alzheimer's disease:
+1. cannabichromene
+2. cannabigerol
+520 - 174. phytochemicals-based β-amyloid cleaving enzyme-1 and mao-b inhibitors for the treatment of alzheimer's disease: molecular simulations-based predictions.
+   From this abstract, the potential positive drug or compound for treating Alzheimer's disease is "epigallocatechin-3-gallate".
+529 - 177. mao-b inhibitor (2e)-3-(4-bromophenyl)-1-(1h-indol-3-yl) prop-2-en-1-one as a neuroprotective agent against alzheimer's disease.
+   The potential drug or compound name for treating Alzheimer's disease mentioned in the abstract is (2E)-3-(4-bromophenyl)-1-(1H-indol-3-yl) prop-2-en-1-one, also known as IC9.
+544 - 182. amyloid positron emission tomography and subsequent health care use among medicare beneficiaries with mild cognitive impairment or dementia.
+   No specific drug or compound name can be extracted from this abstract.
+553 - 185. immunotherapies targeting amyloid and tau protein in alzheimer's disease: should we move away from diseases and focus on biological targets? a systematic review and expert opinion.
+   From this abstract, the potential drug or compound names that are potentially positive for treating Alzheimer's disease are:
+1. lecanemab
+2. donanemab
+3. aducanumab
+556 - 186. alterations of audiovisual integration in alzheimer's disease.
+   No specific drug or compound name is mentioned in this abstract.
+559 - 187. petroselinum crispum extract prevents lens damage in scopolamine-induced cognitive dysfunction.
+   From this abstract, the potential compound that is positive for treating Alzheimer's disease is parsley extract.
+562 - 188. an exploration of binding of hesperidin, rutin, and thymoquinone to acetylcholinesterase enzyme using multi-level computational approaches.
+   The drug or compound potentially positive for treating Alzheimer's disease mentioned in the abstract is Hesperidin.
+571 - 191. progressive tauopathy disrupts breathing stability and chemoreflexes during presumptive sleep in mice.
+   There is no specific mention of any drug or compound name in this abstract that is potentially positive for treating Alzheimer's Disease.
+577 - 193. making the case for prophylactic use of betaine to promote brain health in young (15-24 year old) athletes at risk for concussion.
+   From this abstract, the drug or compound that is potentially positive for treating Alzheimer's disease is betaine.
+583 - 195. rapamycin responds to alzheimer's disease: a potential translational therapy.
+   Rapamycin is the drug or compound mentioned in the abstract that is potentially positive for treating Alzheimer's disease.
+589 - 197. editorial: insights in alzheimer's disease and related dementias: 2022.
+   Without the abstract, it is difficult to determine any specific drug or compound names that may be potentially positive for treating Alzheimer's disease. It would require access to the full text or additional information in order to identify any relevant drugs or compounds in the context of the article.
+592 - 198. influence of cerebral blood flow on volumetric loss related to alzheimer's disease.
+   No, the given abstract does not mention any specific drug or compound name that is potentially positive for treating Alzheimer's disease. It only discusses the potential use of Arterial Spin Labeling (ASL) as a biomarker for detecting changes in the early stages of Alzheimer's disease.
+601 - 201. exploring the potential of antidiabetic agents as therapeutic approaches for alzheimer's and parkinson's diseases: a comprehensive review.
+   From this abstract, the potential use of antidiabetic agents as therapeutic interventions for Alzheimer's and Parkinson's diseases is discussed. However, specific drug or compound names are not mentioned.
+610 - 204. piezo1 agonist restores meningeal lymphatic vessels, drainage, and brain-csf perfusion in craniosynostosis and aged mice.
+   From this abstract, the potential drug or compound name for treating Alzheimer's disease is Yoda1.
+628 - 210. the effects of ninjinyoeito on impaired spatial memory and prefrontal cortical synaptic plasticity through α-amino-3-hydroxy-5-4-isoxazole propionic acid receptor subunit in a rat model with cerebral ischemia and β-amyloid injection.
+   From this abstract, the drug or compound name that is potentially positive for treating Alzheimer's disease is Ninjinyoeito (NYT).
+631 - 211. informing disclosure: efficacy of a brief educational intervention on research participants' knowledge about alzheimer's disease biomarkers.
+   There is no mention of any specific drug or compound names in the provided abstract.
+640 - 214. applications of nanoparticles in alzheimer's disease.
+   No specific drug or compound names are mentioned in this abstract.
+652 - 218. b - 37 cognitive aging in rural communities: preliminary characterization of memory in a community cohort from southern nevada.
+   No, from this abstract it is not possible to extract any specific drug or compound name that is potentially positive for treating Alzheimer's disease.
+661 - 221. mir-669b-5p inhibits the alzheimer's disease development via regulation of chek2 in neuro2a appswe/δ9 cells.
+   From this abstract, the potential drug or compound that could be positive for treating Alzheimer's disease is miR-669b-5p.
+664 - 222. a - 62 caregiver relationship type significantly moderates association among npi-q symptoms: a moderated network analysis.
+   Based on the given abstract, there is no information available regarding specific drug or compound names that are potentially positive for treating Alzheimer's disease. The focus of the investigation mentioned in the abstract was on the influence of caregiver type on neuropsychiatric symptoms using a questionnaire.
+691 - 231. a - 27 early-onset alzheimer's disease: indications of psychosis severity and disease progression.
+   Based on the given abstract, there is no explicit mention of any drug or compound name that is potentially positive for treating Alzheimer's disease.
+721 - 241. multitargeted inhibition of key enzymes associated with diabetes and alzheimer's disease by 1,3,4-oxadiazole derivatives: synthesis, in vitro screening, and computational studies.
+   The compound 3f is mentioned as having the highest inhibition potential against α-glucosidase and α-amylase enzymes.
+733 - 245. 27-hydroxycholesterol impairs learning and memory ability via decreasing brain glucose uptake mediated by the gut microbiota.
+   From this abstract, the potential positive compound for treating Alzheimer's disease is 27-hydroxycholesterol (27-OHC) and the potential positive drug is the synthetic enzyme CYP27A1 inhibitor anastrozole (ANS).
+742 - 248. ginsenoside rg2 alleviates neurovascular damage in 3xtg-ad mice with alzheimer's disease through the mapk-erk pathway.
+   The potential drug or compound name that is highlighted in this abstract as being positive for treating Alzheimer's disease is ginsenoside Rg2 (Rg2).
+745 - 249. sleep diplomacy alone will widen sleep disparities - authors' reply.
+   Unfortunately, without the full abstract or any additional information, it is not possible to extract a specific drug or compound name that is potentially positive for treating Alzheimer's disease from the given PMID.
+751 - 251. synthesizing images of tau pathology from cross-modal neuroimaging using deep learning.
+   The abstract does not mention any specific drug or compound names that are potentially positive for treating Alzheimer's disease.
+754 - 252. assessment of technical and clinical utility of a bead-based flow cytometry platform for multiparametric phenotyping of cns-derived extracellular vesicles.
+   No drug or compound name is mentioned in the given abstract.
+757 - 253. proteasome inhibition protects blood-brain barrier p-glycoprotein and lowers aβ brain levels in an alzheimer's disease model.
+   From this abstract, the potential drug or compound that is potentially positive for treating Alzheimer's disease is bortezomib (Velcade®; BTZ), an FDA-approved proteasome inhibitor.
+760 - 254. nisin a probiotic bacteriocin mitigates brain microbiome dysbiosis and alzheimer's disease-like neuroinflammation triggered by periodontal disease.
+   From this abstract, the potential drug or compound name that could be positive for treating Alzheimer's disease is nisin.
+769 - 257. [xixin decoction improves learning and memory ability of samp8 by enhancing neuroprotective effect and inhibiting neuroinflammation].
+   From this abstract, the potential drug or compound name that is potentially positive for treating Alzheimer's disease is Xixin Decoction (XXD).
+772 - 258. [mechanism of albiflorin in improvement of alzheimer's disease based on network pharmacology and in vitro experiments].
+   The potential drug or compound name mentioned in the abstract that is potentially positive for treating Alzheimer's disease is albiflorin.
+775 - 259. [platycladi semen oil ameliorates aβ_(25-35)-induced brain injury in mice based on network pharmacology and gut microbiota].
+   From this abstract, the following drug or compound names can be extracted as potential positive treatments for Alzheimer's disease:
+1. platycladi semen oil(sp)
+2. donepezil
+3. (z,z,z)-9,12,15-octadecatrienoic acid
+4. (z,z)-9,12-octadecadienoic acid
+778 - 260. [serum metabolomics study of psoraleae fructus in improving learning and memory ability of app/ps1 mice].
+   From this abstract, the potential drug or compound for treating Alzheimer's disease is Psoraleae Fructus.
+781 - 261. [heixiaoyao powder interferes with microglia polarization in ad model mice by regulating nox2/ros/nf-κb signaling pathway].
+   From this abstract, the potential drug or compound name that is mentioned as a treatment for Alzheimer's disease is "Heixiaoyao Powder".
+784 - 262. [effect of aqueous extract of corni fructus on aβ_(25-35)-induced brain injury and neuroinflammation in mice with alzheimer's disease].
+   The potentially positive drug or compound names for treating Alzheimer's disease mentioned in the abstract are:
+- huperizine a
+- caffeic acid
+- trans-p-hydroxy cinnamic acid
+- isolariciresinol-9'-o-β-d-glucopyranoside
+- esculetin
+- (+)-lyoniresinol
+787 - 263. in vitro methods to assess 11β-hydroxysteroid dehydrogenase type 1 activity.
+   Based on the abstract, it is mentioned that pharmacological inhibition of 11β-HSD1 can enhance memory and cognition in rodent Alzheimer's disease models. Therefore, developing 11β-HSD1 inhibitors could be potentially positive for treating Alzheimer's disease.
+799 - 267. a cell therapy approach to restore microglial trem2 function in a mouse model of alzheimer's disease.
+   Unfortunately, without the actual abstract or additional information from the referenced article, it is not possible to extract any specific drug or compound name.
+802 - 268. history of obstructive sleep apnea associated with incident cognitive impairment in white but not black individuals in a us national cohort study.
+   No, the abstract does not provide any information about drug or compound names that are potentially positive for treating Alzheimer's disease.
+808 - 270. novel diagnostic biomarkers of oxidative stress, immunological characterization and experimental validation in alzheimer's disease.
+   From this abstract, the following drug or compound names are potentially positive for treating Alzheimer's disease:
+1. nfkbia
+2. plce1
+3. clic1
+4. slco4a1
+5. traf3ip2
+811 - 271. structure-based design of nanobodies that inhibit seeding of alzheimer's patient-extracted tau fibrils.
+   From this abstract, the drug or compound name that is potentially positive for treating Alzheimer's disease is the "tau capping nanobody inhibitors".
+817 - 273. microtubule acetylation induced by oxidative stress regulates subcellular distribution of lysosomal vesicles for amyloid-beta secretion.
+   From this abstract, the following drug or compound name that is potentially positive for treating Alzheimer's disease can be extracted: 
+- ehna (dynein atpase inhibitor)
+832 - 278. pathogenic variants in the longitudinal early-onset alzheimer's disease study cohort.
+   No drug or compound names are mentioned in the provided abstract.
+835 - 279. neuroprotective effects of vitamin d in an alzheimer's disease rat model: improvement of mitochondrial dysfunction via calcium/calmodulin-dependent protein kinase kinase 2 activation of sirtuin1 phosphorylation.
+   The potential drug or compound mentioned in the abstract that could be positive for treating Alzheimer's disease is vitamin D3.
+838 - 280. what might aducanumab teach us about clinicians' judgment about whether to recommend emerging alzheimer's interventions?
+   From this abstract, the drug or compound name that is potentially positive for treating Alzheimer's disease is "aducanumab."
+841 - 281. advances in the discovery of heterocyclic-based drugs against alzheimer's disease.
+   From this abstract, it is mentioned that Alzheimer's disease involves beta-amyloid accumulation and tau protein hyperphosphorylation. Additionally, it refers to the development of effective small drugs to treat Alzheimer's disease. However, specific drug or compound names are not mentioned in the abstract.
+847 - 283. inflammatory signaling pathways in the treatment of alzheimer's disease with inhibitors, natural products and metabolites (review).
+   From this abstract, the drug or compound name that is potentially positive for treating Alzheimer's disease is tanshinone IIA.
+853 - 285. neuropsychiatry and neuropsychopharmacology of dementia: a guide to evaluation, diagnosis, and management.
+   No drug or compound names are mentioned in this abstract.
+856 - 286. uncovering the achilles heel of genetic heterogeneity: machine learning-based classification and immunological properties of necroptosis clusters in alzheimer's disease.
+   No drug or compound name related to the treatment of Alzheimer's disease is mentioned in this abstract.
+877 - 293. review of the therapeutic potential of forsythiae fructus on the central nervous system: active ingredients and mechanisms of action.
+   From this abstract, the following drug or compound names potentially positive for treating Alzheimer's disease can be extracted:
+1. forsythiae fructus
+2. forsythia suspensa (thunb.) vahl
+3. forsythiaside
+4. forsythiaside a
+5. forsythiaside b
+6. isoforsythiaside
+7. forsythin
+8. phillyrin
+886 - 296. superiority of the triple-acting 5-ht6r/5-ht3r antagonist and mao-b reversible inhibitor pz-1922 over 5-ht6r antagonist intepirdine in alleviation of cognitive deficits in rats.
+   From this abstract, the compound name PZ-1922 is potentially positive for treating Alzheimer's disease.
+892 - 298. structure-based design of new n-benzyl-piperidine derivatives as multitarget-directed ache/buche inhibitors for alzheimer's disease.
+   From this abstract, the drug or compound name that is potentially positive for treating Alzheimer's disease is donepezil (1).
+895 - 299. [cognitive impairment and tactics of using the drug cerebrolysin. resolution of the international council of experts (may 12, 2023)].
+   The drug Cerebrolysin is mentioned in the abstract as having therapeutic potential in the treatment of cognitive disorders.
+901 - 301. genetic and sporadic forms of tauopathies-tau as a disease driver for the majority of patients but the minority of tauopathies.
+   From the abstract, the drug or compound name that is potentially positive for treating Alzheimer's disease is TAU/MAPT.
+913 - 305. sink or swim: does a worm paralysis phenotype hold clues to neurodegenerative disease?
+   From this abstract, the potential drug or compound names that could be positive for treating Alzheimer's disease are not mentioned.
+916 - 306. mechanistic insights into mark4 inhibition by galantamine toward therapeutic targeting of alzheimer's disease.
+   The drug or compound name mentioned in the abstract that is potentially positive for treating Alzheimer's disease is galantamine (GLT).
+925 - 309. in vivo cortical diffusion imaging relates to alzheimer's disease neuropathology.
+   No specific drug or compound names related to treating Alzheimer's disease are mentioned in the provided abstract.
+928 - 310. drug development targeting degeneration of the basal forebrain cholinergic system: its time has come.
+   Without the complete abstract, it is not possible to extract any drug or compound names that are potentially positive for treating Alzheimer's disease. The abstract provides no information regarding specific drugs or compounds.
+934 - 312. lactobacillus paracasei hii01 enhances lifespan and promotes neuroprotection in caenorhabditis elegans.
+   The drug or compound name that is potentially positive for treating Alzheimer's disease mentioned in this abstract is L. paracasei HII01.
+937 - 313. late-nc in alzheimer's disease: molecular aspects and synergies.
+   There is no mention of any specific drug or compound name in this abstract that is potentially positive for treating Alzheimer's disease.
+940 - 314. antioxidative and neuroprotective potential of acorus calamus linn. and cordia dichotoma g. forst. in alzheimer's type dementia in rodent.
+   From this abstract, the potential drug or compound name that is positive for treating Alzheimer's disease is Acorus calamus.
+943 - 315. development and optimization of in-situ gel containing chitosan nanoparticles for possible nose-to-brain delivery of vinpocetine.
+   Vinpocetine
+946 - 316. ginkgolide attenuates memory impairment and neuroinflammation by suppressing the nlrp3/caspase-1 pathway in alzheimer's disease.
+   The potential drug or compound that is mentioned in the abstract as being potentially positive for treating Alzheimer's disease is ginkgolide.
+949 - 317. nuclear erk1/2 signaling potentiation enhances neuroprotection and cognition via importinα1/kpna2.
+   The potentially positive drug or compound for treating Alzheimer's disease mentioned in the abstract is RB5.
+958 - 320. adaptive gated graph convolutional network for explainable diagnosis of alzheimer's disease using eeg data.
+   From this abstract, there is no explicit mention of any specific drug or compound name that is potentially positive for treating Alzheimer's disease. The abstract primarily focuses on the development of a novel graph neural network model for the diagnosis and prediction of Alzheimer's disease using electroencephalography (EEG) data. It highlights the model's ability to provide explainable predictions and consistent explanations of its predictions, which could be relevant for further study of Alzheimer's disease-related alterations of brain networks.
+973 - 325. a dual glp-1/gip receptor agonist is more effective than liraglutide in the a53t mouse model of parkinson's disease.
+   From this abstract, two potential drug or compound names that could be positive for treating Alzheimer's disease are Liraglutide and DA5-CH (KP405). Both of these substances have shown protective effects in phase 2 clinical trials in PD patients and in Alzheimer's disease patients. However, it should be noted that the abstract primarily focuses on the potential treatment for Parkinson's disease (PD).
+976 - 326. a new perspective on alzheimer's disease: micrornas and circular rnas.
+   No drug or compound names related to potential treatment for Alzheimer's disease are mentioned in this abstract.
+985 - 329. unraveling the intercellular communication disruption and key pathways in alzheimer's disease: an integrative study of single-nucleus transcriptomes and genetic association.
+   From this abstract, one potential drug or compound name that is potentially positive for treating Alzheimer's disease is cromoglicate.
+988 - 330. cryo-em structure of alzheimer's disease tau filaments with pet ligand mk-6240.
+   The compound name mentioned in the abstract that has potential for treating Alzheimer's disease is MK-6240.
+994 - 332. protein restriction slows the development and progression of alzheimer's disease in mice.
+   Based on the information provided in the abstract, a potential drug or compound name that is potentially positive for treating Alzheimer's disease is dietary protein restriction (PR).
+1000 - 334. awareness and perception toward alzheimer's disease among residents living in the jazan province, saudi arabia: a cross-sectional study.
+   No, this abstract does not mention any drug or compound name that is potentially positive for treating Alzheimer's disease.
+1003 - 335. liraglutide and learning.
+   Without the abstract or the full text, it is not possible to extract any specific drug or compound names that may be potentially positive for treating Alzheimer's disease from the given PMID (37789197). The abstract provides no information, and to identify potential treatments, it would be necessary to have access to the full text of the article.
+1006 - 336. friends and foes in alzheimer's disease.
+   From this abstract, the drug or compound names that are potentially positive for treating Alzheimer's disease are:
+1. aducanumab
+2. lecanomab
+3. donanemab
+4. hydromethylthionine mesylate
+1015 - 339. antioxioxidant and antiapoptotic effects of thymosin β4 in aβ-induced sh-sy5y cells via the 5-htr1a/erk axis.
+   From this abstract, the potential drug or compound name that is positive for treating Alzheimer's disease is Thymosin β4 (Tβ4).
+1018 - 340. establishing an online resource to facilitate global collaboration and inclusion of underrepresented populations: experience from the mjff global genetic parkinson's disease project.
+   No drug or compound names related to the treatment of Alzheimer's disease are mentioned in this abstract.
+1021 - 341. overcoming the digital divide for older patients with respiratory disease: focus group study.
+   No, the given abstract does not provide any information about specific drug or compound names that are potentially positive for treating Alzheimer's disease.
+1027 - 343. aaic 2023: discoveries propel alzheimer's diagnosis and clinical care.
+   Unfortunately, without the full abstract or additional information, it is not possible to extract any specific drug or compound names that may be potentially positive for treating Alzheimer's disease from the provided PMID (37787497). To gain more insight, it would be necessary to access the full article or provide a different source.
+1030 - 344. neuroproteomic mapping of kinases and their substrates downstream of acetylcholine: finding and implications.
+   From this abstract, the drug or compound name that is potentially positive for treating Alzheimer's disease is donepezil.
+1033 - 345. different ratios of schisandra chinensis and evodia rutaecarpa combination for treating alzheimer's disease.
+   From this abstract, the potential drug or compound name that is potentially positive for treating Alzheimer's disease is Schisandra-Evodia.
+1039 - 347. pterostilbene as a therapeutic alternative for central nervous system disorders: a review of the current status and perspectives.
+   The drug or compound name that is potentially positive for treating Alzheimer's disease is pterostilbene.
+1042 - 348. membrane protein chaperone and sodium chloride modulate the kinetics and morphology of amyloid beta aggregation.
+   From this abstract, the potential drug or compound name that is mentioned as a positive candidate for treating Alzheimer's disease is chloroplast signal recognition particle 43 (cpSRP43). It is described as a novel protein targeting machinery from chloroplast that is an ATP-independent membrane protein chaperone and can both prevent and reverse Aβ aggregation effectively.
+1051 - 351. basic information about memantine and its treatment of alzheimer's disease and other clinical applications.
+   The potential positive drug for treating Alzheimer's disease mentioned in the abstract is "memantine."
+1060 - 354. effect of sulfonamide derivatives of phenylglycine on scopolamine-induced amnesia in rats.
+   The drug or compound names that are potentially positive for treating Alzheimer's disease, based on the information provided in the abstract, are:
+1. compounds 30 and 33: these compounds were developed as selective butyrylcholinesterase inhibitors and were tested against scopolamine-induced amnesia. they showed efficacy in reducing the effects of scopolamine treatment in behavioral tasks and neurochemical testing.
+1066 - 356. targeting immunometabolic pathways for combination therapy in alzheimer's disease.
+   From the abstract, potential drug or compound names that may be positive for treating Alzheimer's disease include:
+- glp-1 receptor agonists
+- sglt2 inhibitors
+- insulin
+1072 - 358. clinical trials of new drugs for alzheimer disease: a 2020-2023 update.
+   From this abstract, two drug names that are potentially positive for treating Alzheimer's disease are Aducanumab and Lecanemab.
+1075 - 359. accuracy of plasma aβ40, aβ42, and p-tau181 to detect csf alzheimer's pathological changes in cognitively unimpaired subjects using the lumipulse automated platform.
+   From this abstract, there are several drug or compound names that are potentially positive for treating Alzheimer's disease. However, the abstract does not specifically mention any drug or compound names. It focuses on evaluating the performance of plasma markers including Aβ40, Aβ42, and p-tau181 to detect pathological changes in cerebrospinal fluid (CSF) using the automated Lumipulse platform.
+1078 - 360. the association of herpes zoster and influenza vaccinations with the risk of developing dementia: a population-based cohort study within the uk clinical practice research datalink.
+   From this abstract, there is no explicit mention of any specific drug or compound that is potentially positive for treating Alzheimer's disease. The study focuses on investigating the association between zoster and influenza vaccinations and the risk of developing dementia, rather than exploring specific drugs for treatment.
+1081 - 361. hawaiian native herb mamaki prevents dementia by ameliorating neuropathology and repairing neurons in four different mouse models of neurodegenerative diseases.
+   From this abstract, a potential drug or compound name that is potentially positive for treating Alzheimer's disease is Mamaki.
+1084 - 362. correction: crif1 deficiency in dopamine neurons triggers early-onset parkinsonism.
+   Without the actual abstract or additional information, it is not possible to extract any drug or compound name that may be potentially positive for treating Alzheimer's disease from the provided PMID (37783789).
+1090 - 364. stress induced exacerbation of alzheimer's disease brain pathology is thwarted by co-administration of nanowired cerebrolysin and monoclonal amyloid beta peptide antibodies with serotonin 5-ht6 receptor antagonist sb-399885.
+   From this abstract, the drug or compound names that are potentially positive for treating Alzheimer's disease are:
+1. cerebrolysin
+2. monoclonal antibodies (mab) to amyloid beta peptide (aβp)
+3. serotonin 5-ht6 receptor antagonist sb399885
+1093 - 365. effects of curcumin nanodelivery on schizophrenia and glioblastoma.
+   From this abstract, the potential drug or compound for treating Alzheimer's disease is curcumin.
+1096 - 366. sleep deprivation enhances amyloid beta peptide, p-tau and serotonin in the brain: neuroprotective effects of nanowired delivery of cerebrolysin with monoclonal antibodies to amyloid beta peptide, p-tau and serotonin.
+   From this abstract, the drug or compound name that is potentially positive for treating Alzheimer's disease is cerebrolysin.
+1102 - 368. real-world prediction of preclinical alzheimer's disease with a deep generative model.
+   No drug or compound name that is potential positive for treating Alzheimer's disease can be extracted from this abstract. The abstract focuses on utilizing a deep generative model for predicting amyloid positivity in individuals, identifying brain regions and variables contributing to classification, and providing inexpensive, non-invasive, and accurate diagnostics for preclinical Alzheimer's disease.
+1105 - 369. reader response: estrogen receptor genes, cognitive decline, and alzheimer disease.
+   Unfortunately, without access to the full article, it is not possible to identify any specific drug or compound mentioned in the abstract that could be potentially positive for treating Alzheimer's disease. The information regarding potentially positive treatments for Alzheimer's would likely be present in the full text of the article.
+1108 - 370. author response: estrogen receptor genes, cognitive decline, and alzheimer disease.
+   I'm sorry, but I cannot browse the internet or access specific articles or abstracts. However, I can provide some commonly studied drugs and compounds in the context of Alzheimer's disease research. Some potential candidates for treating Alzheimer's disease include:
+1. cholinesterase inhibitors: donepezil, rivastigmine, galantamine
+2. memantine (an nmda receptor antagonist)
+3. nonsteroidal anti-inflammatory drugs (nsaids): ibuprofen, naproxen
+4. antioxidants: vitamin e, resveratrol
+5. ginkgo biloba extract
+1111 - 371. the role of n-methyl-d-aspartate glutamate receptors in alzheimer's disease: from pathophysiology to therapeutic approaches.
+   From this abstract, it is not possible to directly extract any specific drug or compound names that are potentially positive for treating Alzheimer's disease. The abstract provides an overview of the involvement of N-Methyl-D-aspartate glutamate receptors (NMDARs) in Alzheimer's disease and other neuropsychiatric disorders. It discusses the subunit composition of NMDARs, their presence in non-neuronal cells, and their interactions with pathogenic proteins. It also mentions the current landscape of NMDAR-based therapeutics but does not specify any drug or compound names.
+1114 - 372. memory impairment was ameliorated by corticolimbic microinjections of arachidonylcyclopropylamide (acpa) and mirna-regulated lentiviral particles in a streptozotocin-induced alzheimer's rat model.
+   From this abstract, the drug or compound name that is potentially positive for treating Alzheimer's disease is arachidonylcyclopropylamide (ACPA), a selective cannabinoid CB1 receptor agonist.
+1117 - 373. frentizole derivatives with mtor inhibiting and senomorphic properties.
+   From this abstract, the drug or compound name that is potentially positive for treating Alzheimer's disease is compound 4.
+1123 - 375. vascular senescence and leak are features of the early breakdown of the blood-brain barrier in alzheimer's disease models.
+   The abstract does not specifically mention any drug or compound names that are potentially positive for treating Alzheimer's disease.
+1126 - 376. metformin activates ampk and mtor to inhibit rankl-stimulated osteoclast formation.
+   From this abstract, the drug or compound name that is potentially positive for treating Alzheimer's disease is metformin.
+1138 - 380. a mediterranean diet and walking intervention to reduce cognitive decline and dementia risk in independently living older australians: the medwalk randomized controlled trial experimental protocol, including covid-19 related modifications and baseline characteristics.
+   Based on the given information, it is not possible to extract any specific drug or compound name that is potentially positive for treating Alzheimer's disease. The abstract only mentions diet and physical activity lifestyle changes as potential mitigation strategies for risk factors linked to cognitive decline and Alzheimer's disease, without mentioning any specific drug or compound.
+1051 - 351. basic information about memantine and its treatment of alzheimer's disease and other clinical applications.
+   The drug name that is potentially positive for treating Alzheimer's disease is memantine.
+1060 - 354. effect of sulfonamide derivatives of phenylglycine on scopolamine-induced amnesia in rats.
+   The potentially positive drug or compound name for treating Alzheimer's disease mentioned in the abstract is "compounds 30 and 33".
+1066 - 356. targeting immunometabolic pathways for combination therapy in alzheimer's disease.
+   From this abstract, there are several potential drug or compound names that could be positive for treating Alzheimer's disease:
+1. glp-1 receptor agonists: these are metabolic modulators that enhance insulin sensitivity and function, and have been shown to improve immune function and reduce chronic inflammation.
+2. sglt2 inhibitors: these are also metabolic modulators that enhance insulin sensitivity and function, and have been shown to improve immune function and reduce chronic inflammation.
+3. insulin: insulin itself has been shown to improve immune function, reduce chronic inflammation, and have additional effects in preclinical and clinical studies of ad.
+1072 - 358. clinical trials of new drugs for alzheimer disease: a 2020-2023 update.
+   From this abstract, the two potential drugs for treating Alzheimer's disease mentioned are Aducanumab and Lecanemab.
+1075 - 359. accuracy of plasma aβ40, aβ42, and p-tau181 to detect csf alzheimer's pathological changes in cognitively unimpaired subjects using the lumipulse automated platform.
+   From this abstract, two potential drug/compound names that are mentioned are Aβ40 and Aβ42. These are plasma markers that are being evaluated for the detection of pathological changes in cerebrospinal fluid (CSF) in relation to Alzheimer's disease. However, it is important to note that the abstract does not explicitly state that these markers are positive for treating Alzheimer's disease, but rather that they are being evaluated for their performance in detecting pathological changes.
+1081 - 361. hawaiian native herb mamaki prevents dementia by ameliorating neuropathology and repairing neurons in four different mouse models of neurodegenerative diseases.
+   From this abstract, the potential drug or compound name that is potentially positive for treating Alzheimer's disease is "Mamaki." The hot water extract of the leaves and the simply crushed leaf powder and fruit powder derived from Mamaki showed positive effects on cognitive function, neuropathologies, synaptophysin levels, microglial activation, and memory improvement in mouse models of neurodegenerative dementia. Additionally, the fruit powder enhanced brain-derived neurotrophic factor expression and neurogenesis, indicating its ability to repair neurons. Therefore, Mamaki leaves and fruits could be considered as promising sources of dementia-preventive diets.
+1084 - 362. correction: crif1 deficiency in dopamine neurons triggers early-onset parkinsonism.
+   Unfortunately, without access to the actual abstract or the full text of the article, it is not possible to extract any specific drug or compound names that may be potentially positive for treating Alzheimer's disease.
+1090 - 364. stress induced exacerbation of alzheimer's disease brain pathology is thwarted by co-administration of nanowired cerebrolysin and monoclonal amyloid beta peptide antibodies with serotonin 5-ht6 receptor antagonist sb-399885.
+   From this abstract, a potential drug or compound for treating Alzheimer's disease can be identified as cerebrolysin, which is a multimodal drug. The abstract also mentions the use of monoclonal antibodies (mAb) to amyloid beta peptide (AβP) and a serotonin 5-HT6 receptor antagonist SB399885 as part of the treatment strategy.
+1093 - 365. effects of curcumin nanodelivery on schizophrenia and glioblastoma.
+   From this abstract, the drug or compound name that is potentially positive for treating Alzheimer's disease is curcumin.
+1096 - 366. sleep deprivation enhances amyloid beta peptide, p-tau and serotonin in the brain: neuroprotective effects of nanowired delivery of cerebrolysin with monoclonal antibodies to amyloid beta peptide, p-tau and serotonin.
+   From this abstract, the potential drug or compound name that is mentioned for treating Alzheimer's disease is "cerebrolysin."
+1099 - 367. deep grading for mri-based differential diagnosis of alzheimer's disease and frontotemporal dementia.
+   No drug or compound name is mentioned in this abstract.
+1105 - 369. reader response: estrogen receptor genes, cognitive decline, and alzheimer disease.
+   Since the abstract is not available, I am unable to extract any specific drug or compound names for treating Alzheimer's disease from the given PMID (PubMed ID). To provide a list of potential drugs or compounds, I would need access to the full text of the article or more specific information.
+1108 - 370. author response: estrogen receptor genes, cognitive decline, and alzheimer disease.
+   Without being able to access the full abstract, it is not possible to extract any specific drug or compound names that may be potentially effective for treating Alzheimer's disease. The information required to identify such names is not provided in the given detail.
+1114 - 372. memory impairment was ameliorated by corticolimbic microinjections of arachidonylcyclopropylamide (acpa) and mirna-regulated lentiviral particles in a streptozotocin-induced alzheimer's rat model.
+   From this abstract, the potential drug or compound that is positive for treating Alzheimer's disease is arachidonylcyclopropylamide (ACPA), a selective cannabinoid CB1 receptor agonist. Additionally, the microinjection of lentiviral particles containing miRNA-137 or -let-7a also showed potential therapeutic benefits in treating cognitive decline in Alzheimer's disease.
+1117 - 373. frentizole derivatives with mtor inhibiting and senomorphic properties.
+   Based on the information provided in the abstract, the drug or compound name that is potentially positive for treating Alzheimer's disease is compound 4.
+1126 - 376. metformin activates ampk and mtor to inhibit rankl-stimulated osteoclast formation.
+   From this abstract, the drug mentioned that has potential for treating Alzheimer's disease is metformin.
+1129 - 377. dose-dependent binding behavior of anthraquinone derivative purpurin interacting with tau-derived peptide protofibril.
+   From this abstract, the potential drug or compound name that is potentially positive for treating Alzheimer's disease is purpurin.
+1144 - 382. lithium, a treatment option for alzheimer's disease? a review of existing evidence and discussion on future perspectives.
+   The drug or compound name that is potentially positive for treating Alzheimer's disease mentioned in the abstract is lithium.
+1150 - 384. association between hippocampal volume and african neuropsychology memory tests in adult individuals with probable alzheimer's disease in democratic republic of congo.
+   No, the abstract does not provide any information about drug or compound names that are potentially positive for treating Alzheimer's disease.
+1153 - 385. benzodiazepine-induced anterograde amnesia: detrimental side effect to novel study tool.
+   No drug or compound names are mentioned in the abstract that are potentially positive for treating Alzheimer's disease. The abstract primarily discusses the detrimental side effect of anterograde amnesia caused by benzodiazepines (BZDs) and the need for further research to understand the mechanisms behind BZD-induced amnesia.
+1159 - 387. a trkb and trkc partial agonist restores deficits in synaptic function and promotes activity-dependent synaptic and microglial transcriptomic changes in a late-stage alzheimer's mouse model.
+   Based on the given abstract, the potential drug or compound names that could be beneficial for treating Alzheimer's disease are:
+1. trkb receptor agonists
+2. trkc receptor agonists
+3. compounds that upregulate trkb/c signaling
+1162 - 388. polysaccharides: potential bioactive macromolecules for alzheimer's disease.
+   From this abstract, the drug or compound name that is potentially positive for treating Alzheimer's disease is sodium oligomannate (GV-971).
+1174 - 392. involvement of brain-derived neurotrophic factor signaling in the pathogenesis of stress-related brain diseases.
+   The abstract does not mention any specific drug or compound names that are potentially positive for treating Alzheimer's disease.
+1189 - 397. hotspots and future trends of autophagy in traditional chinese medicine: a bibliometric analysis.
+   Based on the abstract provided, it does not explicitly mention any specific drug or compound names that are potentially positive for treating Alzheimer's disease. The primary focus of the abstract appears to be on discussing the role and future trends of autophagy in traditional Chinese medicine (TCM). It is possible that the mentioned hotspots and future trends may indirectly relate to the treatment of Alzheimer's disease, but without further information, it is not possible to extract any specific drug or compound names from this abstract.
+1195 - 399. comparison of the efficacy of human umbilical cord mesenchymal stem cells conditioned medium and platelet-rich plasma on the hippocampus of stz-induced rat model of alzheimer's disease: a behavioral and stereological study.
+   From the given abstract, there are several potential drugs or compounds that could be positive for treating Alzheimer's disease:
+1. conditioned medium of human umbilical cord mesenchymal stem cells (cm)
+2. platelet-rich plasma (prp)
+1198 - 400. resting-state electroencephalographic characteristics related to mild cognitive impairments.
+   No drug or compound names are mentioned in this abstract.
+1201 - 401. the cracked potential of boron-containing compounds in alzheimer's disease.
+   The potential drug or compound names that could be positive for treating Alzheimer's disease based on the abstract are:
+- boron-containing compounds (bcc)
+- boric acid
+- natural bccs
+- organoboron compounds
+- bodipys (boron-dipyrromethene dyes)
+- boronic acids
+- pinacol boronic esters.
+1204 - 402. montelukast ameliorates scopolamine-induced alzheimer's disease: role on cholinergic neurotransmission, antioxidant defence system, neuroinflammation and expression of bdnf.
+   From this abstract, the drug or compound name that is potentially positive for treating Alzheimer's disease is Montelukast (MTK).
+1207 - 403. stress, depression, and risk of dementia - a cohort study in the total population between 18 and 65 years old in region stockholm.
+   No specific drug or compound names are mentioned in the given abstract.
+1213 - 405. trametinib activates endogenous neurogenesis and recovers neuropathology in a model of alzheimer's disease.
+   The drug or compound name that is potentially positive for treating Alzheimer's disease mentioned in the abstract is trametinib.
+1225 - 409. dexmedetomidine mitigates neuroinflammation in an alzheimer's disease mouse model via the mir-204-3p/fbxl7 signaling axis.
+   The drug or compound mentioned in the abstract that is potentially positive for treating Alzheimer's disease is Dexmedetomidine (Dex).
+1228 - 410. antioxidant and anti-alzheimer activities of clivia miniata (lindl) roots, bulbs, and aerial parts: in-vitro and in-silico studies.
+   From this abstract, several potential drug or compound names for treating Alzheimer's disease can be extracted:
+- clivia miniata (lindl): this refers to the plant species being studied.
+- alkaloids: the chemical compounds found in clivia miniata that have various biological activities.
+- β-site amyloid precursor protein cleavage enzyme 1 (bace-1): this is a molecular target for the treatment of alzheimer's disease.
+- lycorine di-hexoside: a compound identified in the ethyl acetate fraction of clivia miniata root, showing promise in inhibiting bace-1.
+- miniatine: a compound identified in the ethyl acetate fraction of clivia miniata root, showing promise in inhibiting bace-1.
+- cliviaaline: a compound identified in the methylene chloride fraction of clivia miniata root, showing promise in inhibiting bace-1.
+1231 - 411. natural products for the treatment of neurodegenerative diseases.
+   No specific drug or compound name is mentioned in the abstract.
+1234 - 412. apoe4-dependent lysosomal cholesterol accumulation impairs mitochondrial homeostasis and oxidative phosphorylation in human astrocytes.
+   From this abstract, the drug or compound name that is potentially positive for treating Alzheimer's disease is a cholesterol-depleting agent.
+1237 - 413. identification of cognitive load-dependent activation patterns using working memory task-based fmri at various levels of difficulty.
+   There is no mention of any specific drug or compound name in the provided abstract.
+1243 - 415. melatonin-mediated igf-1/glp-1 activation in experimental ocd rats: evidence from csf, blood plasma, brain and in-silico investigations.
+   From this abstract, the drug or compound name that is potentially positive for treating Alzheimer's disease is melatonin.
+1246 - 416. metaorganismal choline metabolism shapes olfactory perception.
+   From this abstract, the drug or compound name that is potentially positive for treating Alzheimer's disease is TMAO or trimethylamine N-oxide.
+1255 - 419. emerging strategies to fabricate polymeric nanocarriers for enhanced drug delivery across blood-brain barrier: an overview.
+   No specific drug or compound name for treating Alzheimer's disease is mentioned in this abstract.
+1261 - 421. deep learning analysis of uplc-ms/ms-based metabolomics data to predict alzheimer's disease.
+   No, the abstract does not provide any drug or compound names that are potentially positive for treating Alzheimer's disease.
+1270 - 424. study design and methods: u.s. study to protect brain health through lifestyle intervention to reduce risk (u.s. pointer).
+   No specific drug or compound names are mentioned in the given abstract.
+1276 - 426. identification of dementia in medicare claims compared to rigorous clinical assessments in african americans.
+   No specific drug or compound name related to treating Alzheimer's disease is mentioned in the given abstract.
+1279 - 427. dose response of transcranial near infrared light stimulation on brain functional connectivity and cognition in older adults- a randomised comparison.
+   From this abstract, it is not possible to extract any specific drug or compound name that is potentially positive for treating Alzheimer's disease. The abstract discusses the effects of photobiomodulation (also called low-level light therapy) on cognition and brain functional connectivity in cognitively normal adults. The results of the study suggest that high-dose photobiomodulation may improve resting state functional connectivity and visual search and processing speed. However, the abstract mentions that replication of these findings in a larger study is needed before clinical application in patients with Alzheimer's disease.
+1282 - 428. pimavanserin treatment for psychosis in patients with dementia with lewy bodies: a case series.
+   From the abstract, the drug pimavanserin is mentioned as a potential treatment for psychosis in patients with dementia with Lewy bodies (DLB), including Alzheimer disease and Parkinson disease dementia.
+1294 - 432. neurotropin alleviates cognitive impairment by inhibiting tlr4/myd88/nf-κb inflammation signaling pathway in mice with vascular dementia.
+   From this abstract, the drug or compound name that is potentially positive for treating Alzheimer's disease is Neurotropin (NTP).
+1297 - 433. eamnet: an alzheimer's disease prediction model based on representation learning.
+   No drug or compound name for treating Alzheimer's disease can be extracted from this abstract.
+1303 - 435. neuronal dna double-strand breaks lead to genome structural variations and 3d genome disruption in neurodegeneration.
+   Based on the given abstract, there is no explicit mention of any specific drug or compound name that is potentially positive for treating Alzheimer's disease. The abstract primarily focuses on the identification and characterization of DNA double-strand breaks (DSBs) in neurons as an early pathological hallmark of neurodegenerative diseases.
+1306 - 436. human microglial state dynamics in alzheimer's disease progression.
+   No drug or compound names related to the treatment of Alzheimer's disease can be extracted from this abstract. The abstract primarily focuses on characterizing microglial states and genomic alterations associated with Alzheimer's disease, rather than specific drugs or compounds.
+1312 - 438. menopause age, reproductive span and hormone therapy duration predict the volume of medial temporal lobe brain structures in postmenopausal women.
+   From this abstract, the drug or compound name that is potentially positive for treating Alzheimer's disease is hormone replacement therapy (HRT).
+1315 - 439. oligomeric phloroglucinols with hache inhibitory and antibacterial activities from tropic rhodomyrtus tomentosa.
+   From this abstract, the compound names that are potentially positive for treating Alzheimer's disease are 3a and 3b. These compounds showed the most potent human acetylcholinesterase inhibitory activity.
+1318 - 440. multiomic prediction of therapeutic targets for human diseases associated with protein phase separation.
+   From this abstract, three potential drug or compound names that are potentially positive for treating Alzheimer's disease are:
+1. marcks
+2. camkk2
+3. p62
+1321 - 441. intrinsic signal optoretinography revealing ad-induced retinal photoreceptor hyperexcitability before a detectable morphological abnormality.
+   No drug or compound name is mentioned in the abstract for treating Alzheimer's disease.
+1324 - 442. the role of lactobacillus in inflammatory bowel disease: from actualities to prospects.
+   From this abstract, the drug or compound name that is potentially positive for treating Alzheimer's Disease (AD) is Lactobacillus.
+1327 - 443. retraction note: preservation of dendritic spine morphology and postsynaptic signaling markers after treatment with solid lipid curcumin particles in the 5xfad mouse model of alzheimer's amyloidosis.
+   Unfortunately, without the abstract or any other information from the article, it is not possible to identify any specific drug or compound name that is potentially positive for treating Alzheimer's disease in this case.
+1339 - 447. glucagon-like peptide 1 (glp-1) receptor agonists in experimental alzheimer's disease models: a systematic review and meta-analysis of preclinical studies.
+   The potential drug or compound name mentioned in this abstract that is potentially positive for treating Alzheimer's disease is Glucagon-like peptide-1 receptor agonists (GLP-1 RAs).
+1348 - 450. the role of camp-dependent intracellular signaling pathways in the regulation of the functions of neural stem cells and neuroglial cells in amyloid-β-induced neurodegeneration.
+   From this abstract, there are two potential drug or compound names that could be relevant for treating Alzheimer's disease:
+1. inhibitors of adenylate cyclase: these compounds can increase the degree of implementation of the growth potential of neural stem cells (nscs) in alzheimer's disease.
+2. selective pka blockers: these compounds can induce the production of nsc-stimulating factors by neuroglial cells in alzheimer's disease.
+1351 - 451. computer aided progression detection model based on optimized deep lstm ensemble model and the fusion of multivariate time series data.
+   The abstract does not mention any specific drug or compound names that are potentially positive for treating Alzheimer's disease.
+1354 - 452. d-amino acids: new clinical pathways for brain diseases.
+   Based on the information provided in the abstract, the following drug or compound names are potentially positive for treating Alzheimer's disease:
+1. d-serine
+2. d-aspartate
+3. d-cysteine
+1363 - 455. inhibition mechanism of fisetin on acetylcholinesterase and its synergistic effect with galantamine.
+   The potential drug or compound name for treating Alzheimer's disease mentioned in the abstract is fisetin.
+1369 - 457. addressing the chronic pain-early cognitive decline comorbidity among older adults: protocol for the active brains remote efficacy trial.
+   No drug or compound name is mentioned in the given abstract.
+1384 - 462. the role of nmda receptor subunits in the effect of memantine on the brain of healthy animals.
+   The drug or compound name potentially positive for treating Alzheimer's disease mentioned in the abstract is memantine.
+1387 - 463. modeling of alzheimer's disease to study the efficacy of cell therapy (review).
+   No drug or compound name is mentioned in this abstract for potential treatment of Alzheimer's disease. The abstract focuses on the various cell preparations and their use in modeling and treating Alzheimer's disease.
+1393 - 465. artificial intelligence for neurodegenerative experimental models.
+   No, I cannot extract any specific drug or compound name from the given abstract as it does not provide any specific information regarding potential drugs or compounds for treating Alzheimer's disease.
+1396 - 466. bidirectional effect of triphala on modulating gut-brain axis to improve cognition in the murine model of alzheimer's disease.
+   From this abstract, there are two potential drug or compound names that are potentially positive for treating Alzheimer's disease: polyphenols and Triphala.
+1399 - 467. personalized clinical managements through exploring circulating neural cells and electroencephalography.
+   No drug or compound name is mentioned in the abstract.
+1402 - 468. a potential therapeutic target: the role of neutrophils in the central nervous system.
+   No drug or compound names are mentioned in this abstract.
+1405 - 469. pde5 inhibitor drugs for use in dementia.
+   From this abstract, the drugs or compounds potentially positive for treating Alzheimer's disease are: sildenafil, vardenafil, and tadalafil.
+1408 - 470. pleiotropic effects of influenza vaccination.
+   No drug or compound names that are potentially positive for treating Alzheimer's disease are mentioned in this abstract.
+1411 - 471. chemical profiling and antioxidant and anti-amyloid capacities of salvia fruticosa extracts from greece.
+   From this abstract, the drug or compound names that are potentially positive for treating Alzheimer's disease are:
+- salvia fruticosa (sf)
+- carnosol
+- carnosic acid
+1414 - 472. microglial-targeted nsmase2 inhibitor fails to reduce tau propagation in ps19 mice.
+   From this abstract, the potentially positive drug for treating Alzheimer's disease is D-DPTIP.
+1420 - 474. therapeutic implications of renin-angiotensin system modulators in alzheimer's dementia.
+   From this abstract, the following drug or compound names are potentially positive for treating Alzheimer's disease:
+- angiotensin-converting enzyme inhibitors (aceis)
+- angiotensin receptor blockers (arbs)
+- renin inhibitors
+1423 - 475. a concise review of the recent structural explorations of chromones as mao-b inhibitors: update from 2017 to 2023.
+   From this abstract, the potential drug or compound names that are positive for treating Alzheimer's disease include:
+- mao-b inhibitors
+- chromones (promising structures for developing therapeutic compounds)
+1426 - 476. a window to the brain: the retina to monitor the progression and efficacy of saffron repron® pre-treatment in an lps model of neuroinflammation and memory impairment.
+   The drug or compound mentioned in the abstract that is potentially positive for treating Alzheimer's disease is saffron Repron®.
+1429 - 477. neuroprotective effect of nosustrophine in a 3xtg mouse model of alzheimer's disease.
+   From this abstract, the potential drug or compound name that is potentially positive for treating Alzheimer's disease is "Nosustrophine."
+1435 - 479. benzimidazole-based schiff base hybrid scaffolds: a promising approach to develop multi-target drugs for alzheimer's disease.
+   From this abstract, three compounds that showed potent inhibition against both acetylcholinesterase (AChE) and butyrylcholinesterase (BuChE) are mentioned. These compounds are numbered as 3, 5, and 9 in the abstract.
+1438 - 480. targeting autophagy, apoptosis, and sirt1/nrf2 axis with topiramate underlies its neuroprotective effect against cadmium-evoked cognitive deficits in rats.
+   The drug or compound mentioned in the abstract that is potentially positive for treating Alzheimer's disease is topiramate.
+1441 - 481. design, synthesis, in silico studies and in vitro evaluation of new indole- and/or donepezil-like hybrids as multitarget-directed agents for alzheimer's disease.
+   From this abstract, the potential drug or compound names that could be positive for treating Alzheimer's disease are:
+- melatonin-based hybrid molecules
+- donepezil-based hybrid molecules
+- compound 3c
+- compound 3d
+- compound 3n
+1444 - 482. new biotinylated ghk and related copper(ii) complex: antioxidant and antiglycant properties in vitro against neurodegenerative disorders.
+   From this abstract, there is mention of the tripeptide GHK and its derivatives. GHK has been used for various therapeutic applications and has the potential to treat and/or prevent adverse biochemical reactions in neurodegenerative disorders, including Alzheimer's disease.
+1450 - 484. recent development of novel aminoethyl-substituted chalcones as potential drug candidates for the treatment of alzheimer's disease.
+   From the abstract, the compound PS-10 is mentioned as a potential drug for treating Alzheimer's disease. It is reported to have potent acetylcholinesterase (AChE) inhibitory activity and showed memory improvement in rats.
+1453 - 485. the potential neuroprotective effect of thymoquinone on scopolamine-induced in vivo alzheimer's disease-like condition: mechanistic insights.
+   Based on the given abstract, the compound Thymoquinone (TQ) is potentially positive for treating Alzheimer's disease.
+1456 - 486. therapeutic effects of baicalin on diseases related to gut-brain axis dysfunctions.
+   From this abstract, the drug or compound name that is potentially positive for treating Alzheimer's disease is baicalin.
+1459 - 487. impact of donepezil supplementation on alzheimer's disease-like pathology and gut microbiome in app/ps1 mice.
+   The drug or compound mentioned in the abstract that is potentially positive for treating Alzheimer's disease is Donepezil hydrochloride (DH).
+1462 - 488. antioxidant, antiglaucoma, anticholinergic, and antidiabetic effects of kiwifruit (actinidia deliciosa) oil: metabolite profile analysis using lc-hr/ms, gc/ms and gc-fid.
+   From this abstract, the compound names potentially positive for treating Alzheimer's disease are apigenin, epigallocatechin, caryophyllene oxide, and luteolin.
+1471 - 491. cell cycle reactivation, at the start of neurodegeneration, induced by forskolin and aniline in differentiated neuroblastoma cells.
+   From this abstract, the following drug or compound names are potentially positive for treating Alzheimer's disease:
+1. retinoic acid
+2. forskolin
+3. aniline
+4. pituitary adenylate cyclase-activating polypeptide (pacap)
+1477 - 493. morphometric and nanomechanical screening of peripheral blood cells with atomic force microscopy for label-free assessment of alzheimer's disease, parkinson's disease, and amyotrophic lateral sclerosis.
+   From this abstract, there are no explicit drug or compound names mentioned that are potentially positive for treating Alzheimer's disease.
+1483 - 495. identification of candidate biomarkers of alzheimer's disease via multiplex cerebrospinal fluid and serum proteomics.
+   From this abstract, the following drug or compound names potentially positive for treating Alzheimer's disease can be extracted:
+1. csf sodium-/potassium-transporting atpase subunit beta-1 (at1b1)
+2. serglycin (srgn)
+3. thioredoxin-dependent peroxide reductase, mitochondrial (prdx3)
+4. probable phospholipid-transporting atpase im (at8b4)
+1486 - 496. licochalcone a: a potential multitarget drug for alzheimer's disease treatment.
+   From this abstract, it can be inferred that Licochalcone A (Lico-A) is a potential compound for treating Alzheimer's disease (AD).
+1489 - 497. fisetin-in search of better bioavailability-from macro to nano modifications: a review.
+   The compound name that is potentially positive for treating Alzheimer's disease mentioned in the abstract is fisetin.
+1498 - 500. the expression of major facilitator superfamily domain-containing protein2a (mfsd2a) and aquaporin 4 is altered in the retinas of a 5xfad mouse model of alzheimer's disease.
+   From this abstract, potential drug or compound names that are mentioned and may be positive for treating Alzheimer's disease are:
+1. amyloid β (aβ)
+2. major facilitator superfamily domain-containing protein2a (mfsd2a)
+3. aquaporin4 (aqp4)
+4. srebp1-c
+1501 - 501. anti-amnesia-like effect of pinus densiflora extract by improving apoptosis and neuroinflammation on trimethyltin-induced icr mice.
+   The potentially positive drug or compound for treating Alzheimer's disease mentioned in the abstract is Korean red pine bark extract (KRPBE).
+1513 - 505. positive allosteric modulators of serca pump restore dendritic spines and rescue long-term potentiation defects in alzheimer's disease mouse model.
+   The compound NDC-9009 is potentially positive for treating Alzheimer's disease.
+1516 - 506. simufilam reverses aberrant receptor interactions of filamin a in alzheimer's disease.
+   From this abstract, the drug candidate mentioned is simufilam, which is currently in Phase 3 clinical trials for Alzheimer's disease (AD) dementia.
+1519 - 507. treatment of alzheimer's disease: beyond symptomatic therapies.
+   From this abstract, the drug or compound names that are potentially positive for treating Alzheimer's disease are:
+1. acetylcholinesterase inhibitors (achei)
+2. n-methyl-d-aspartate (nmda) antagonist memantine
+3. aducanumab (monoclonal antibody designed against aβ plaques and oligomers)
+4. lecanemab (second monoclonal antibody)
+1528 - 510. probiotics modulate host immune response and interact with the gut microbiota: shaping their composition and mediating antibiotic resistance.
+   No drug or compound name that is potentially positive for treating Alzheimer's disease is mentioned in the abstract.
+1537 - 513. exploring the anti-hypoxaemia effect of hydromethylthionine: a prospective study of phase 3 clinical trial participants.
+   The drug or compound name that is potentially positive for treating Alzheimer's disease mentioned in the abstract is hydromethylthionine-mesylate (HMTM).
+1552 - 518. neuroprotective and cardiometabolic role of vitamin e: alleviating neuroinflammation and metabolic disturbance induced by alcl3 in rat models.
+   From this abstract, the potential drug or compound names that could be positive for treating Alzheimer's disease are:
+1. metformin
+2. vitamin e
+1555 - 519. concordant and discordant cerebrospinal fluid and plasma cytokine and chemokine responses in mild cognitive impairment and early-stage alzheimer's disease.
+   From this abstract, we can extract the following drug or compound names that are potentially positive for treating Alzheimer's disease:
+1. il-4 (interleukin-4)
+2. il-5 (interleukin-5)
+3. il-9 (interleukin-9)
+4. il-13 (interleukin-13)
+5. tnf-α (tumor necrosis factor-alpha)
+6. gm-csf (granulocyte-macrophage colony-stimulating factor)
+7. b-fgf (basic fibroblast growth factor)
+8. il-6 (interleukin-6)
+9. ip-10 (interferon-gamma-inducible protein 10)
+10. mcp-1 (monocyte chemoattractant protein-1)
+11. ifn-y (interferon-gamma)
+12. il-7 (interleukin-7)
+13. vegf (vascular endothelial growth factor)
+14. il-12p70 (interleukin-12p70)
+15. il-1β (interleukin-1 beta)
+16. mip-1α (macrophage inflammatory protein-1 alpha)
+17. eotaxin
+18. g-csf (granulocyte colony-stimulating factor)
+19. il-2 (interleukin-2)
+20. il-8 (interleukin-8)
+21. il-15 (interleukin-15)
+22. pdgf-bb (platelet-derived growth factor bb)
+23. il-17a (interleukin-17a)
+24. rantes (regulated upon activation, normal t cell expressed, and secreted)
+1561 - 521. alzheimer's disease and different types of cancer likelihood: unveiling disparities and potential protective effects in a korean cohort study.
+   From this abstract, the following drug or compound names are potentially positive for treating Alzheimer's disease:
+- not specified in the abstract.
+1576 - 526. cannabinoids in medicine: a multifaceted exploration of types, therapeutic applications, and emerging opportunities in neurodegenerative diseases and cancer therapy.
+   From the abstract, there is mention of cannabinoids potentially being beneficial in neurodegenerative diseases such as Alzheimer's disease. However, specific drug or compound names that are positive for treating Alzheimer's disease are not mentioned in the abstract.
+1582 - 528. low-dose chidamide treatment displays sex-specific differences in the 3xtg-ad mouse.
+   The potential drug or compound name mentioned in the abstract that is potentially positive for treating Alzheimer's disease is chidamide (Tucidinostat).
+1585 - 529. metformin prevents ndea-induced memory impairments associated with attenuating beta-amyloid, tumor necrosis factor-alpha, and interleukin-6 levels in the hippocampus of rats.
+   The drug or compound name mentioned in this abstract that is potentially positive for treating Alzheimer's disease is "metformin".
+1588 - 530. selective noradrenaline depletion in the neocortex and hippocampus induces working memory deficits and regional occurrence of pathological proteins.
+   The potential drug or compound name that is potentially positive for treating Alzheimer's disease mentioned in this abstract is a "selective noradrenergic immunotoxin."
+1600 - 534. evaluation of dimercaptosuccinic acid-coated iron nanoparticles immunotargeted to amyloid beta as mri contrast agents for the diagnosis of alzheimer's disease.
+   From this abstract, the potential drug or compound name that is potentially positive for treating Alzheimer's disease is "anti-Aβ antibody".
+1603 - 535. morphofunctional investigation in a transgenic mouse model of alzheimer's disease: non-reactive astrocytes are involved in aβ load and reactive astrocytes in plaque build-up.
+   From this abstract, the drug or compound name potentially positive for treating Alzheimer's disease is amyloid β (Aβ) peptide.
+1606 - 536. transcriptomic analysis in the hippocampus and retina of tg2576 ad mice reveals defective mitochondrial oxidative phosphorylation and recovery by tau 12a12mab treatment.
+   12A12 monoclonal antibody
+1609 - 537. differential gene expression in activated microglia treated with adenosine a2a receptor antagonists highlights olfactory receptor 56 and t-cell activation gtpase-activating protein 1 as potential biomarkers of the polarization of activated microglia.
+   The drug or compound names that are potentially positive for treating Alzheimer's disease based on the abstract are:
+1. sch 58261 - a selective a2a receptor antagonist
+2. 2-Cl-IB-MECA - a selective A3 receptor agonist
+2. 2-cl-ib-meca - a selective a3 receptor agonist
+1612 - 538. Preferential Regulation of Γ-Secretase-Mediated Cleavage of APP by Ganglioside GM1 Reveals a Potential Therapeutic Target for Alzheimer's Disease.
+1612 - 538. preferential regulation of γ-secretase-mediated cleavage of app by ganglioside gm1 reveals a potential therapeutic target for alzheimer's disease.
+   From this abstract, the compound named "Ganglioside GM1" is potentially positive for treating Alzheimer's disease.
+1621 - 541. rosavin thwarts amyloid-β-induced macromolecular damages and neurotoxicity, exhibiting anti-alzheimer's disease activity in wister rat model.
+   Rosavin
+1624 - 542. senolytic therapy for alzheimer's disease.
+   Unfortunately, without the availability of the abstract or the specific PMID, it is not possible to extract any drug or compound names that may be potentially positive for treating Alzheimer's disease from the given information.
+1627 - 543. application of pt@zif-8 nanocomposite-based electrochemical biosensor for sensitive diagnosis of tau protein in alzheimer's disease patients.
+   From the abstract, the compound name that is potentially positive for treating Alzheimer's disease is cis-p-tau.
+1630 - 544. validating virtual administration of neuropsychological testing in parkinson disease: a pilot study.
+   No drug or compound names related to the treatment of Alzheimer's disease can be extracted from this abstract.
+1636 - 546. genetic insights on the relation of vascular risk factors and cervical artery dissection.
+   No, this abstract does not mention any drug or compound name that is potentially positive for treating Alzheimer's disease. It mainly focuses on the association between vascular risk factors and cervical artery dissections as a cause of ischemic stroke in young individuals.
+1639 - 547. multilayered bioorthogonal sers nanoprobes selectively aggregating in human fluids: a smart optical assay for β-amyloid peptide quantification.
+   From the abstract, the drug or compound name that is potentially positive for treating Alzheimer's disease is "Amyloid β-peptide 1-42 (Aβ (1-42))".
+1657 - 553. alzheimer's disease: a review of pathology, current treatments, and the potential therapeutic effect of decreasing oxidative stress by combined vitamin d and l-cysteine supplementation.
+   From this abstract, the potential drug or compound names that could be beneficial for treating Alzheimer's disease are:
+1. glutathione (gsh)
+2. acetylcholine (ach)
+3. n-methyl-d-aspartate receptor (nmda receptor)
+1663 - 555. pincer ligands as multifunctional agents for alzheimer's copper dysregulation and oxidative stress: a computational evaluation.
+   From this abstract, two potential antioxidant agents and five potential distributor-like compounds for the treatment of Alzheimer's disease are mentioned. However, the specific names of these compounds are not provided.
+1669 - 557. role of registries in medicare coverage of new alzheimer disease drugs.
+   No, this abstract does not mention any specific drug or compound name that is potentially positive for treating Alzheimer's disease.
+1672 - 558. decoding the cellular trafficking of prion-like proteins in neurodegenerative diseases.
+   From this abstract, it is not possible to extract any specific drug or compound name that is potentially positive for treating Alzheimer's disease. The abstract focuses on the accumulation and spread of prion-like proteins in neurodegenerative diseases, including Alzheimer's disease, but does not mention any specific drugs or compounds.
+1678 - 560. nutritional, antioxidant, antimicrobial, and anticholinesterase properties of phyllanthus emblica: a study supported by spectroscopic and computational investigations.
+   From this abstract, the potential drug or compound name that is potentially positive for treating Alzheimer's disease is galantamine.
+1693 - 565. ternary heterojunction graphitic carbon nitride/cupric sulfide/titanium dioxide photoelectrochemical sensor for sesamol quantification and antioxidant synergism.
+   From this abstract, the compound name that is potentially positive for treating Alzheimer's disease is "Sesamol (SM)".
+1699 - 567. phytoconstituents of ashwagandha as potential inhibitors of human islet amyloid polypeptide (hiapp): an in silico investigation.
+   From this abstract, two potential drug or compound names that are potentially positive for treating Alzheimer's disease are Withaferin A and Withacoagulin.
+1702 - 568. spectroscopic features of a perylenediimide probe for sensing amyloid fibrils: in vivo imaging of aβ-aggregates in a drosophila model organism.
+   From this abstract, the compound name that is potentially positive for treating Alzheimer's disease is L-Phe-PDI (phenylalanine derivatized perylenediimide).
+1705 - 569. neuroprotective effects of riluzole in alzheimer's disease: a comprehensive review.
+   From this abstract, the potential drug or compound names for treating Alzheimer's disease are:
+1. dantrolene
+2. erythropoietin
+3. lithium
+4. memantine
+5. minocycline
+6. piracetam
+7. riluzole
+8. silymarin
+1708 - 570. laboratory and free-living gait performance in adults with copd and healthy controls.
+   No, from this abstract, there is no mention or indication of any drug or compound names that are potentially positive for treating Alzheimer's disease. The focus of the abstract is on gait characteristics in adults with COPD compared to healthy age-matched controls.
+1714 - 572. linguistic, visuospatial, and kinematic writing characteristics in cognitively impaired patients with beta-amyloid deposition.
+   No specific drug or compound names are mentioned in this abstract that are potentially positive for treating Alzheimer's disease.
+1729 - 577. association between documented severe pain and cognitive impairment in home health care patients: results from the national outcome and assessment information set data.
+   From this abstract, there is mention of a formal diagnosis of "Alzheimer's Disease Related Dementias" as a factor associated with less documented severe pain.
+1738 - 580. transfixed by transgenics: how pathology assumptions are slowing progress in alzheimer's disease and related dementia research.
+   No drug or compound names are mentioned in this abstract.
+1741 - 581. magneto-assisted enzymatic dna walkers for simultaneous electrochemical detection of amyloid-beta oligomers and tau.
+   From this abstract, there are several potential drug or compound names that are mentioned in relation to treating Alzheimer's disease (AD):
+1. aβ oligomers (aβo): bifunctional magnetic nanoparticles are used to identify and capture aβ oligomers in the proposed method.
+2. tau: bifunctional magnetic nanoparticles are also used to identify and capture tau in the proposed method.
+1747 - 583. single versus repetitive traumatic brain injury: current knowledge on the chronic outcomes, neuropathology and the role of tdp-43 proteinopathy.
+   No drug or compound name is mentioned in this abstract as a potential treatment for Alzheimer's disease.
+1759 - 587. apoe4 impairs the microglial response in alzheimer's disease by inducing tgfβ-mediated checkpoints.
+   From this abstract, there are several potential drug or compound names that are potentially positive for treating Alzheimer's disease:
+1. apoe4: a variant of the apoe gene, which is the strongest genetic risk factor for late-onset alzheimer's disease.
+2. lgals3: a signaling molecule involved in the cross-talk between microglia and astrocytes for β-amyloid plaque encapsulation and clearance.
+3. itgb8: a protein involved in the apoe4-mediated induction of transforming growth factor-β (tgfβ) signaling, which impairs the microglial response to ad pathology.
+4. tgfβ: transforming growth factor-β, a signaling molecule that is implicated in the regulation of microglial response in alzheimer's disease.
+5. inpp5d: a microglial homeostatic checkpoint that is upregulated by apoe4-mediated itgb8-tgfβ signaling, and its deletion has shown restored microglial-astrocyte cross-talk and facilitated plaque clearance in mice.
+1765 - 589. tau: a biomarker of huntington's disease.
+   From this abstract, there is mention of tau protein as a potential biomarker for Alzheimer's disease.
+1777 - 593. molecularly imprinted polymer interface on screen-printed zno nanorod field effect transistors for serotonin detection in clinical samples.
+   The drug or compound name that is potentially positive for treating Alzheimer's disease mentioned in the abstract is serotonin.
+1783 - 595. diet-gut microbiome interaction and ferulic acid bioavailability: implications on neurodegenerative disorders.
+   From this abstract, the potential drug or compound that is mentioned as potentially positive for treating Alzheimer's disease is Ferulic acid (FA).
+1789 - 597. an overview of the neurotrophic and neuroprotective properties of the psychoactive drug lithium as an autophagy modulator in neurodegenerative conditions.
+   From this abstract, the drug or compound that is potentially positive for treating Alzheimer's disease is lithium.
+1792 - 598. comparative study of safety and efficacy of angiotensin-receptor blockers and anti amyloid-ß monoclonal antibodies for the treatment of alzheimer's disease: a systematic review.
+   From this abstract, the following drugs or compounds are potentially positive for treating Alzheimer's disease:
+1. anti-aß monoclonal antibodies: aducanumab, lecanemab, donanemab, and solanezumab are mentioned as monoclonal antibodies that can decrease plaque formation or remove already formed plaques.
+2. angiotensin-receptor blockers (arbs): arbs are mentioned as compounds that increase angiotensin ii (at2) levels and decrease the effect of at2 on the at1 receptor (at1r). while not specifically named, arbs are discussed in the context of managing alzheimer's disease.
+1798 - 600. finding drug repurposing candidates for neurodegenerative diseases using zebrafish behavioral profiles.
+   From this abstract, the drug or compound name that is potentially positive for treating Alzheimer's disease is Cyclosporine (CsA).
+1801 - 601. global brain activity and its coupling with cerebrospinal fluid flow is related to tau pathology.
+   The abstract does not mention any specific drug or compound name that is potentially positive for treating Alzheimer's disease.
+1807 - 603. reduced er-mitochondrial contact sites and mitochondrial ca2+ flux in prkn-mutant patient tyrosine hydroxylase reporter ipsc lines.
+   No drug or compound name that is potentially positive for treating Alzheimer's disease can be extracted from this abstract. The abstract focuses on the role of endoplasmic reticulum-mitochondrial contact sites (ERMCS) in neurodegenerative diseases, particularly Parkinson's disease, and does not mention any specific drugs or compounds for treating Alzheimer's disease.
+1813 - 605. effectiveness and safety of virtual reality rehabilitation after stroke: an overview of systematic reviews.
+   No, the abstract does not provide any information about drug or compound names that are potentially positive for treating Alzheimer's disease.
+1822 - 608. the intracerebral injection of aβ1-42 oligomers does not invariably alter seizure susceptibility in mice.
+   No drug or compound name that is potentially positive for treating Alzheimer's disease is mentioned in this abstract.
+1834 - 612. the dual face of microglia (m1/m2) as a potential target in the protective effect of nutraceuticals against neurodegenerative diseases.
+   From this abstract, the following drug or compound names are potentially positive for treating Alzheimer's disease:
+1. caeminaxin a
+2. curcumin
+3. aromatic-turmerone
+4. myricetin
+5. aurantiamide
+6. 3,6'-disinapoylsucrose
+7. resveratrol
+8. andrographolide
+9. sulforaphane
+10. triptolide
+11. xanthoceraside
+12. piperlongumine
+1837 - 613. unveiling neuroprotective potential of spice plant-derived compounds against alzheimer's disease: insights from computational studies.
+   From this abstract, the potential drug or compound names for treating Alzheimer's disease (AD) are:
+1. quercetin
+2. myricetin
+3. alpha-amyrin
+4. beta-chlorogenin
+1840 - 614. reliability and validity of the montreal cognitive assessment's auditory items (moca-22).
+   There is no mention of any specific drug or compound name in the given abstract.
+1849 - 617. erratum to: the time for combination therapy research in alzheimer's disease is now.
+   Unfortunately, without the abstract, it is not possible to extract any specific drug or compound names that may be potentially positive for treating Alzheimer's disease from PMID: 37742672. The abstract provides essential information and context necessary to determine the focus of the study and any potential findings.
+1852 - 618. advanced alzheimer's disease patients show safe, significant, and persistent benefit in 6-month bryostatin trial.
+   Yes, from the given abstract, the potential drug or compound name that is potentially positive for treating Alzheimer's disease is Bryostatin.

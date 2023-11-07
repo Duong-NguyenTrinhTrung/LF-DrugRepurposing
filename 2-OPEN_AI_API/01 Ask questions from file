@@ -1,0 +1,26 @@
+import openai
+
+# Set the API key
+openai.api_key = "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"
+
+# Step 1: Read questions from an input file
+input_file = "Alzheimer_screening_therapeutics_treatment_disease-modifying_drug_high-throughput_screening_anti-neuroinflammatory_abstracts_limit_1000.txt"
+with open(input_file, "r") as infile:
+    lines = infile.readlines()
+ 
+# Prepare to collect answers
+
+with open("Alzheimer-OpenAI-answer2.txt", "a") as outfile:
+    # Step 2: Loop over each question and get the answer and # Step 3: Save the answers to an output file
+    for i in range(1853, len(lines[1853:])):
+        if lines[i].find("Abstract")>=0:
+            print(i)
+            question = lines[i]
+            completion = openai.ChatCompletion.create(
+                model="gpt-3.5-turbo",
+                messages=[{"role": "user", "content": "From this abstract, can you extract any drug or compound name that is potentially possitive for treating Alzheimer disease: "+question.strip()}]
+            )
+            outfile.write(str(i)+" - " + lines[i-1])
+            outfile.write("   " +completion.choices[0].message.content + "\n")
+
+print("Questions processed and answers saved!")
