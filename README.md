@@ -3,5 +3,6 @@
 This is a place where we show some simple script using 2 powerful tools 
    + NCBI_Eulitities
    + OpenAI API
+
 for mining bulk health, biomedical data:
 
